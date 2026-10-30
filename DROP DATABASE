@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS delivery_connect;
+
+CREATE DATABASE delivery_connect;
+
+USE delivery_connect;
